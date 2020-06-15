@@ -1,2 +1,3 @@
 rootProject.name = 'pft-java-b16'
+include 'sandbox'
 
